@@ -71,6 +71,11 @@ curl -sL tirreno.com/t.yml | docker compose -f - up -d
 ```
 Continue with step 4 of [Quickstart](#quickstart-install).
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/tirreno/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="32"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/tirrenotechnologies/tirreno"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" height="32"></a>
+
 ## Quickstart install
 1. [Download](https://www.tirreno.com/download/) the latest version of tirreno (ZIP file).
 2. Extract the tirreno-master.zip file to the location where you want it installed on your web server.
